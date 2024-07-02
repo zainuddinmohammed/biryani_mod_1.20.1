@@ -1,0 +1,20 @@
+{
+  "item.biryani.salt": "Salt",
+  "item.biryani.turmeric": "Turmeric",
+  "item.biryani.red_chili_powder": "Red Chili Powder",
+  "item.biryani.chicken_biryani": "Chicken Biryani",
+  "item.biryani.spatula": "Spatula",
+  "item.biryani.frying_pan": "Frying Pan",
+  "item.biryani.burned_food": "Burned Food",
+
+  "block.biryani.salt_block": "Block of Salt",
+  "block.biryani.screaming_dirt": "Screaming Dirt",
+  "block.biryani.screaming_end_stone": "Screaming End Stone",
+  "block.biryani.screaming_nether_bricks": "Screaming Nether Bricks",
+  "block.biryani.screaming_netherrack": "Screaming Netherrack",
+  "block.biryani.screaming_stone": "Screaming Stone",
+
+  "tooltip.biryani.frying_pan.tooltip": "Can be used as a weapon and a shield",
+
+  "creativetab.biryani_tab": "Biryani"
+}
