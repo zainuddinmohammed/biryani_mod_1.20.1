@@ -1,12 +1,17 @@
 package net.zain.biryani.item;
 
+import net.minecraft.client.Minecraft;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ShieldItem;
+import net.minecraft.world.item.ShovelItem;
+import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.zain.biryani.Biryani;
+import net.zain.biryani.item.custom.FryingPanItem;
 import net.zain.biryani.item.custom.FuelItem;
 import net.zain.biryani.item.custom.SpatulaItem;
 
@@ -30,7 +35,8 @@ public class ModItems {
             () -> new SpatulaItem(new Item.Properties()));
 
     public static final RegistryObject<Item> FRYING_PAN = ITEMS.register("frying_pan",
-            () -> new Item(new Item.Properties().stacksTo(1)));
+            () -> new FryingPanItem(new Item.Properties().stacksTo(1).durability(200))
+    );
 
     public static final RegistryObject<Item> BURNED_FOOD = ITEMS.register("burned_food",
             () -> new FuelItem(new Item.Properties(), 1200));
