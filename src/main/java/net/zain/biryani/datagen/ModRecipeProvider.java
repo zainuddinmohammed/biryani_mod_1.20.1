@@ -44,13 +44,13 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .unlockedBy(getHasName(ModItems.SALT.get()), has(ModItems.SALT.get()))
                 .save(pWriter);
 
-        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.FRYING_PAN.get())
-                .pattern("II ")
-                .pattern("II ")
-                .pattern("  I")
-                .define('I', Items.IRON_INGOT)
-                .unlockedBy(getHasName(Items.IRON_INGOT), has(Items.IRON_INGOT))
-                .save(pWriter);
+//        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.FRYING_PAN.get())
+//                .pattern("II ")
+//                .pattern("II ")
+//                .pattern("  I")
+//                .define('I', Items.IRON_INGOT)
+//                .unlockedBy(getHasName(Items.IRON_INGOT), has(Items.IRON_INGOT))
+//                .save(pWriter);
 
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.SALT.get(), 9)
                 .requires(ModBlocks.SALT_BLOCK.get())

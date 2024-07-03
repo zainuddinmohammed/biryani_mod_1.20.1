@@ -7,7 +7,6 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.zain.biryani.Biryani;
-import net.zain.biryani.item.custom.FryingPanItem;
 import net.zain.biryani.item.custom.FuelItem;
 import net.zain.biryani.item.custom.SpatulaItem;
 
@@ -31,7 +30,7 @@ public class ModItems {
             () -> new SpatulaItem(new Item.Properties()));
 
     public static final RegistryObject<Item> FRYING_PAN = ITEMS.register("frying_pan",
-            () -> new FryingPanItem(new Item.Properties().durability(100)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> BURNED_FOOD = ITEMS.register("burned_food",
             () -> new FuelItem(new Item.Properties(), 1200));

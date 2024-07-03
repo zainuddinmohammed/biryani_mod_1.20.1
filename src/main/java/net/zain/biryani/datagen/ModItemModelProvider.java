@@ -27,7 +27,6 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.RED_CHILI_POWDER);
         simpleItem(ModItems.CHICKEN_BIRYANI);
         simpleItem(ModItems.SPATULA);
-        simpleItem(ModItems.FRYING_PAN);
 
         simpleBlockItem(ModBlocks.BEDROCK_WOOD_DOOR);
 
