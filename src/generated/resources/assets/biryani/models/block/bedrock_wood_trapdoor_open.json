@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_orientable_trapdoor_open",
+  "render_type": "biryani:cutout",
+  "textures": {
+    "texture": "biryani:block/bedrock_wood_trapdoor"
+  }
+}

@@ -30,5 +30,9 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
         this.tag(BlockTags.NEEDS_STONE_TOOL);
         this.tag(BlockTags.NEEDS_IRON_TOOL);
 
+        this.tag(BlockTags.FENCES).add(ModBlocks.BEDROCK_WOOD_FENCE.get());
+        this.tag(BlockTags.FENCE_GATES).add(ModBlocks.BEDROCK_WOOD_FENCE_GATE.get());
+        this.tag(BlockTags.WALLS).add(ModBlocks.BEDROCK_WOOD_WALL.get());
+
     }
 }

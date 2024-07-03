@@ -14,6 +14,17 @@
   "block.biryani.screaming_netherrack": "Screaming Netherrack",
   "block.biryani.screaming_stone": "Screaming Stone",
 
+  "block.biryani.bedrock_wood_planks": "Bedrock Wood Planks",
+  "block.biryani.bedrock_wood_stairs": "Bedrock Wood Stairs",
+  "block.biryani.bedrock_wood_slab": "Bedrock Wood Slab",
+  "block.biryani.bedrock_wood_fence": "Bedrock Wood Fence",
+  "block.biryani.bedrock_wood_fence_gate": "Bedrock Wood Fence Gate",
+  "block.biryani.bedrock_wood_wall": "Bedrock Wood Wall",
+  "block.biryani.bedrock_wood_door": "Bedrock Wood Door",
+  "block.biryani.bedrock_wood_trapdoor": "Bedrock Wood Trapdoor",
+  "block.biryani.bedrock_wood_button": "Bedrock Wood Button",
+  "block.biryani.bedrock_wood_pressure_plate": "Bedrock Wood Pressure Plate",
+
   "tooltip.biryani.frying_pan.tooltip": "Can be used as a weapon and a shield",
 
   "creativetab.biryani_tab": "Biryani"

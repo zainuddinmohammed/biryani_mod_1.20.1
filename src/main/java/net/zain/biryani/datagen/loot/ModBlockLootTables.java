@@ -1,5 +1,6 @@
 package net.zain.biryani.datagen.loot;
 
+import net.minecraftforge.fml.loading.moddiscovery.ModValidator;
 import net.zain.biryani.block.ModBlocks;
 import net.zain.biryani.item.ModItems;
 import net.minecraft.data.loot.BlockLootSubProvider;
@@ -32,6 +33,18 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.SCREAMING_END_STONE.get());
         this.dropSelf(ModBlocks.SCREAMING_NETHER_BRICKS.get());
         this.dropSelf(ModBlocks.SCREAMING_NETHERRACK.get());
+
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_PLANKS.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_STAIRS.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_PRESSURE_PLATE.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_BUTTON.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_TRAPDOOR.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_FENCE_GATE.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_FENCE.get());
+        this.dropSelf(ModBlocks.BEDROCK_WOOD_WALL.get());
+
+        this.add(ModBlocks.BEDROCK_WOOD_SLAB.get(), block -> createSlabItemTable(ModBlocks.BEDROCK_WOOD_SLAB.get()));
+        this.add(ModBlocks.BEDROCK_WOOD_DOOR.get(), block -> createDoorTable(ModBlocks.BEDROCK_WOOD_DOOR.get()));
 
         /*
 

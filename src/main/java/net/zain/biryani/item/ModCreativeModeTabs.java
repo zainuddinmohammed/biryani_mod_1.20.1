@@ -34,6 +34,17 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.SCREAMING_NETHER_BRICKS.get());
                         output.accept(ModBlocks.SCREAMING_NETHERRACK.get());
                         output.accept(ModBlocks.SCREAMING_STONE.get());
+
+                        output.accept(ModBlocks.BEDROCK_WOOD_PLANKS.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_STAIRS.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_SLAB.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_FENCE.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_FENCE_GATE.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_WALL.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_BUTTON.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_PRESSURE_PLATE.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_DOOR.get());
+                        output.accept(ModBlocks.BEDROCK_WOOD_TRAPDOOR.get());
                     })
                     .build());
 

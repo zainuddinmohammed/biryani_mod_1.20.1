@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "biryani:block/bedrock_wood_planks",
+    "side": "biryani:block/bedrock_wood_planks",
+    "top": "biryani:block/bedrock_wood_planks"
+  }
+}

@@ -1,4 +1,14 @@
-// 1.20.1	2024-06-30T23:29:03.0084596	Loot Tables
+// 1.20.1	2024-07-02T18:22:55.8460672	Loot Tables
+c531611bfaba8ed3da6733c3ee12425192e9d846 data/biryani/loot_tables/blocks/bedrock_wood_button.json
+2bc4f1d14d720d7a31584a1a77598201c428dc1d data/biryani/loot_tables/blocks/bedrock_wood_door.json
+2b47d7dfa0d51f22b69dc00215dd14b37af92ea7 data/biryani/loot_tables/blocks/bedrock_wood_fence.json
+f824b5d1da921fb164cf1d69cb6f779bb45f75e0 data/biryani/loot_tables/blocks/bedrock_wood_fence_gate.json
+c4da88d6a4f524e0e40375526a0d38646450ec59 data/biryani/loot_tables/blocks/bedrock_wood_planks.json
+c4414fa1cf1dd160e4a3f5e02b4c7afaec8a65db data/biryani/loot_tables/blocks/bedrock_wood_pressure_plate.json
+a2c623c25c3c47659321737d4af430d76456957c data/biryani/loot_tables/blocks/bedrock_wood_slab.json
+9e5038733cae5c99e19a7d34ba1eedb96a812c9e data/biryani/loot_tables/blocks/bedrock_wood_stairs.json
+13977b0605a333f33e402e75c288ea3effc266a4 data/biryani/loot_tables/blocks/bedrock_wood_trapdoor.json
+4ed5b8224a9e4e029e93474f576a10f236f63efc data/biryani/loot_tables/blocks/bedrock_wood_wall.json
 c78f79fb607b09d2fa971e8899004ff0c420b7b5 data/biryani/loot_tables/blocks/salt_block.json
 62970a053c9f73e648c06b477e08a54809d1b956 data/biryani/loot_tables/blocks/screaming_dirt.json
 3768eee083d6c85b4247c1ac62752f053b2b8b1a data/biryani/loot_tables/blocks/screaming_end_stone.json

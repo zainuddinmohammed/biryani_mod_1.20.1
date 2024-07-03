@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "biryani:block/bedrock_wood_planks"
+  }
+}

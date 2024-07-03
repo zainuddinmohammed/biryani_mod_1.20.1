@@ -1,4 +1,13 @@
-// 1.20.1	2024-06-30T23:29:03.007453	Item Models: biryani
+// 1.20.1	2024-07-02T18:22:55.8460672	Item Models: biryani
+546e4da359e7b09daffce50d55c31378b1045f46 assets/biryani/models/item/bedrock_wood_button.json
+0280ae55bf3448f6d63cb9a756e1bfeda060cf44 assets/biryani/models/item/bedrock_wood_door.json
+f955719d7e5f16ff7bcb825d5bde83cd0caed89e assets/biryani/models/item/bedrock_wood_fence.json
+61e0e9f0fa7208f1b15f6fed7ef2c25cac065def assets/biryani/models/item/bedrock_wood_fence_gate.json
+5f643b7a7a540b1528f70e589cbf5cc9352aac20 assets/biryani/models/item/bedrock_wood_pressure_plate.json
+561d3a41c992bbed7923afd995e3d1f87a10e4e8 assets/biryani/models/item/bedrock_wood_slab.json
+8ff58c91292a9fade28cc1f9e72aadda2c5ab682 assets/biryani/models/item/bedrock_wood_stairs.json
+4992c5f6cbc20eb110fa52899347d2272d872974 assets/biryani/models/item/bedrock_wood_trapdoor.json
+ed79a632cc07b06e9ed61f9a093efcfa69c19f1e assets/biryani/models/item/bedrock_wood_wall.json
 aa5a3b85ff88d495eaa40c641590de173636168c assets/biryani/models/item/burned_food.json
 1e89b49bc43e43f21115dbb343f411a47f33957b assets/biryani/models/item/chicken_biryani.json
 585dbf6a727b92b776bc56f6c889c8275d486f4f assets/biryani/models/item/frying_pan.json
